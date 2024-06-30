@@ -10,7 +10,7 @@ import ScrollToTop from "./components/helper/scroll-to-top";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio | Eric Conrad Panga",
+  title: "MBTI Portfolio | Cocoy",
   description: "I am an enthusiastic BS Computer Science undergraduate skilled in managing projects independently and working effectively within teams. I excel at strategic planning and compromise, with a focus on continuously enhancing my programming skills for software development.",
 };
 
