@@ -48,7 +48,7 @@ function Experience() {
                         className="absolute bottom-0 opacity-80"
                       />
                       <div className="flex justify-center">
-                        <p className="text-xs sm:text-sm text-[#6e73e8]">
+                        <p className="text-xs sm:text-sm text-[#A491FF]">
                           {experience.duration}
                         </p>
                       </div>

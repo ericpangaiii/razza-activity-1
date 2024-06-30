@@ -10,7 +10,7 @@ function ProjectCard({ project }) {
       <div className="px-4 lg:px-8 py-3 lg:py-5 relative">
         <div className="flex flex-row space-x-1 lg:space-x-2 absolute top-1/2 -translate-y-1/2">
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-red-400"></div>
-          <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-[#6e73e8]"></div>
+          <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-[#A491FF]"></div>
           <div className="h-2 w-2 lg:h-3 lg:w-3 rounded-full bg-green-200"></div>
         </div>
         <p className="text-center ml-3 text-[#e5e2e9] text-base lg:text-xl">
@@ -28,7 +28,7 @@ function ProjectCard({ project }) {
           <div>
             <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
             <span className="text-gray-400">{`'`}</span>
-            <span className="text-[#6e73e8]">{project.name}</span>
+            <span className="text-[#A491FF]">{project.name}</span>
             <span className="text-gray-400">{`',`}</span>
           </div>
 
@@ -38,7 +38,7 @@ function ProjectCard({ project }) {
             {
               project.tools.map((tag, i) => (
                 <React.Fragment key={i}>
-                  <span className="text-[#6e73e8]">{tag}</span>
+                  <span className="text-[#A491FF]">{tag}</span>
                   {
                     project.tools.length - 1 !== i &&
                     <span className="text-gray-400">{`', '`}</span>
@@ -50,17 +50,17 @@ function ProjectCard({ project }) {
           </div>
           <div>
             <span className="ml-4 lg:ml-8 mr-2 text-white">myRole:</span>
-            <span className="text-[#6e73e8]">{project.role}</span>
+            <span className="text-[#A491FF]">{project.role}</span>
             <span className="text-gray-400">,</span>
           </div>
           <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">description:</span>
-            <span className="text-[#6e73e8]">{' ' + project.description}</span>
+            <span className="text-[#A491FF]">{' ' + project.description}</span>
             <span className="text-gray-400">,</span>
           </div>
           <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">code:</span>
-            <a href={project.code} className="text-[#6e73e8]" target="_blank" rel="noopener noreferrer">
+            <a href={project.code} className="text-[#A491FF]" target="_blank" rel="noopener noreferrer">
                 {' ' + project.code}
             </a>
             <span className="text-gray-400">,</span>

@@ -7,7 +7,7 @@ function Navbar() {
         <div className="flex flex-shrink-0 items-center">
           <Link
             href="/"
-            className=" text-[#6E73E8] text-3xl font-bold">
+            className=" text-[#A491FF] text-3xl font-bold">
             ERIC CONRAD PANGA
           </Link>
         </div>
@@ -15,20 +15,20 @@ function Navbar() {
         <ul className="mt-4 flex h-screen max-h-0 w-full flex-col items-start text-sm opacity-0 md:mt-0 md:h-auto md:max-h-screen md:w-auto md:flex-row md:space-x-1 md:border-0 md:opacity-100" id="navbar-default">
           <li>
             <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#about">
-              <div className="text-sm text-white transition-colors duration-300 hover:text-[#6E73E8]">ABOUT ME</div>
+              <div className="text-sm text-white transition-colors duration-300 hover:text-[#A491FF]">ABOUT ME</div>
             </Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#experience"><div className="text-sm text-white transition-colors duration-300 hover:text-[#6E73E8]">EXPERIENCE</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#experience"><div className="text-sm text-white transition-colors duration-300 hover:text-[#A491FF]">EXPERIENCE</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#skills"><div className="text-sm text-white transition-colors duration-300 hover:text-[#6E73E8]">SKILLS</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#skills"><div className="text-sm text-white transition-colors duration-300 hover:text-[#A491FF]">SKILLS</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#education"><div className="text-sm text-white transition-colors duration-300 hover:text-[#6E73E8]">EDUCATION</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#education"><div className="text-sm text-white transition-colors duration-300 hover:text-[#A491FF]">EDUCATION</div></Link>
           </li>
           <li>
-            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-[#6E73E8]">PROJECTS</div></Link>
+            <Link className="block px-4 py-2 no-underline outline-none hover:no-underline" href="/#projects"><div className="text-sm text-white transition-colors duration-300 hover:text-[#A491FF]">PROJECTS</div></Link>
           </li>
         </ul>
       </div>

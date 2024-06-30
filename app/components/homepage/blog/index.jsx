@@ -17,11 +17,11 @@ function Blog({ blogs }) {
 
       <div className="flex justify-center my-5 lg:py-8">
         <div className="flex  items-center">
-          <span className="w-24 h-[2px] bg-[#6e73e8]"></span>
-          <span className="bg-[#6e73e8] w-fit text-white p-2 px-5 text-xl rounded-md">
+          <span className="w-24 h-[2px] bg-[#A491FF]"></span>
+          <span className="bg-[#A491FF] w-fit text-white p-2 px-5 text-xl rounded-md">
             Blogs
           </span>
-          <span className="w-24 h-[2px] bg-[#6e73e8]"></span>
+          <span className="w-24 h-[2px] bg-[#A491FF]"></span>
         </div>
       </div>
 

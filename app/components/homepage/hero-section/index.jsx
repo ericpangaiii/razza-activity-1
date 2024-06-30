@@ -25,7 +25,7 @@ function HeroSection() {
             This is {' '}
             <span className=" text-[#957eb4]">{personalData.name}</span>
             {` , I'm a `}
-            <span className=" text-[#6E73E8]">{personalData.designation}</span>
+            <span className=" text-[#A491FF]">{personalData.designation}</span>
             .
           </h1>
 
@@ -91,7 +91,7 @@ function HeroSection() {
           <div className="px-4 lg:px-8 py-5">
             <div className="flex flex-row space-x-2">
               <div className="h-3 w-3 rounded-full bg-red-400"></div>
-              <div className="h-3 w-3 rounded-full bg-[#6e73e8]"></div>
+              <div className="h-3 w-3 rounded-full bg-[#A491FF]"></div>
               <div className="h-3 w-3 rounded-full bg-green-200"></div>
             </div>
           </div>
@@ -106,64 +106,64 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-[#6e73e8]">Cocoy</span>
+                <span className="text-[#A491FF]">Cocoy</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">hardSkills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-[#6e73e8]">Python</span>
+                <span className="text-[#A491FF]">Python</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">C</span>
+                <span className="text-[#A491FF]">C</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Java</span>
+                <span className="text-[#A491FF]">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">SQL</span>
+                <span className="text-[#A491FF]">SQL</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">R</span>
+                <span className="text-[#A491FF]">R</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Dart</span>
+                <span className="text-[#A491FF]">Dart</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">JavaScipt</span>
+                <span className="text-[#A491FF]">JavaScipt</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">React</span>
+                <span className="text-[#A491FF]">React</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">MongoDB</span>
+                <span className="text-[#A491FF]">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">MariaDB</span>
+                <span className="text-[#A491FF]">MariaDB</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Firebase</span>
+                <span className="text-[#A491FF]">Firebase</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">PostgreSQL</span>
+                <span className="text-[#A491FF]">PostgreSQL</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
                 <span className=" text-white">softSkills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-[#6e73e8]">Leadership</span>
+                <span className="text-[#A491FF]">Leadership</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Teamwork</span>
+                <span className="text-[#A491FF]">Teamwork</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Strategic Planning</span>
+                <span className="text-[#A491FF]">Strategic Planning</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Communication</span>
+                <span className="text-[#A491FF]">Communication</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-[#6e73e8]">Adaptability</span>
+                <span className="text-[#A491FF]">Adaptability</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">hardWorker:</span>
-                <span className="text-[#6e73e8]">true</span>
+                <span className="text-[#A491FF]">true</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">quickLearner:</span>
-                <span className="text-[#6e73e8]">true</span>
+                <span className="text-[#A491FF]">true</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">problemSolver:</span>
-                <span className="text-[#6e73e8]">true</span>
+                <span className="text-[#A491FF]">true</span>
                 <span className="text-gray-400">,</span>
               </div>
               <div><span className="text-gray-400">{`};`}</span></div>
