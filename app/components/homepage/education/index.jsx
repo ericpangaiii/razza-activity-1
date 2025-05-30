@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 import { educationData } from "@/utils/data/education";
-import { BsPersonWorkspace } from "react-icons/bs";
+import { FaGraduationCap } from "react-icons/fa";
 import AnimationLottie from "../../helper/animation-lottie";
 import GlowCard from "../../helper/glow-card";
 import lottieFile from '/public/lottie/study.json';
@@ -59,8 +59,8 @@ function Education() {
                         </p>
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
-                        <div className="text-[#957eb4]  transition-all duration-300 hover:scale-125">
-                          <BsPersonWorkspace size={36} />
+                        <div className="text-[#A491FF] transition-all duration-300 hover:scale-125">
+                          <FaGraduationCap size={36} />
                         </div>
                         <div>
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">

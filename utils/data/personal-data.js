@@ -2,7 +2,7 @@ export const personalData = {
   name: 'ERIC CONRAD PANGA',
   profile: '/profile.jpg',
   designation: 'Tech Intern at RCG',
-  description: 'My name is ERIC CONRAD PANGA. I am an enthusiastic BS Computer Science undergraduate skilled in managing projects independently and working effectively within teams. I excel at strategic planning and compromise, with a focus on continuously enhancing my programming skills for software development.',
+  description: 'I’m an aspiring Fintech Engineer passionate about building innovative financial technology solutions. I bring a strong foundation in software development and a problem-solving mindset to create user-focused systems that drive digital transformation in finance. Whether you’re working on something exciting or just want to connect—let’s chat and build something great together!',
   email: 'evpanga2@up.edu.ph',
   phone: '0908-103-1205',
   address: 'Antipolo City, Rizal',
@@ -13,5 +13,6 @@ export const personalData = {
   stackOverflow: '',
   leetcode: '',
   devUsername: 'ericpangaiii',
-  resume: 'https://drive.google.com/file/d/1OGV3tUmmZwcjI5EOd1Mtl4JanKACElJP/view?usp=sharing'
+  resume: 'https://drive.google.com/file/d/1JmyVySPQofuX9UZiaTbNHhi8UxqDGfZ1/view?usp=sharing',
+  coverLetter: 'https://drive.google.com/file/d/1ATuUhsgZN-_inx8xEiYn5FGUa6N3saaO/view?usp=sharing'
 }

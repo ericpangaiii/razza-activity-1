@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Tech Intern',
     company: "Razza Consulting Group, Inc.",
-    duration: "(June 2024 - Present)"
+    duration: "(June 2024 - August 2024)"
   },
   {
     id: 2,

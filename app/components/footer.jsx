@@ -9,7 +9,7 @@ function Footer() {
         </div>
         <div className="flex flex-col md:flex-row items-center justify-between">
           <p className="text-sm">
-            © Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/eric-conrad-panga-120a58311/" className="text-[#e5e2e9]">Eric Conrad Panga</Link>
+            © Portfolio by <Link target="_blank" href="https://www.linkedin.com/in/eric-conrad-panga-120a58311/" className="text-[#e5e2e9]">Eric Conrad Panga | 2025</Link>
           </p>
         </div>
       </div>
