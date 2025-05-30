@@ -16,7 +16,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "MBTI Portfolio | Cocoy",
+  title: "Cocoy's Portfolio",
   description: "I am an enthusiastic BS Computer Science undergraduate skilled in managing projects independently and working effectively within teams. I excel at strategic planning and compromise, with a focus on continuously enhancing my programming skills for software development.",
 };
 
